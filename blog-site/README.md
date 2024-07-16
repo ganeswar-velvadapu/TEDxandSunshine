@@ -1,4 +1,4 @@
-# Project Name
+# Blog website
 
 ## Description
 This is a web application built using Node.js, Express.js, and EJS (Embedded JavaScript) for templating. It also includes JWT (JSON Web Token) for authentication and authorization to secure the application.
